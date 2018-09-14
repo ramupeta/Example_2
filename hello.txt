@@ -1,1 +1,3 @@
-hello welcome to the world of IBM Company
+hello welcome to the world of IBM Company.
+Image Cheque Suspect Identification
+No Source code fo this application like C++ and so on.
